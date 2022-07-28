@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "lib": ["esnext", "dom"],
+    "target": "ES2015",
+    "module": "esnext",
+    "outDir": "./build",
+    "rootDir": "./",
+    "moduleResolution": "node",
+    "strict": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true                           
+  },
+
+}

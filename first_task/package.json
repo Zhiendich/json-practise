@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "tsc-write": "tsc --outDir ./build -w"
+  },
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}

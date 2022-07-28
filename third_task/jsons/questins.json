@@ -1,0 +1,50 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is your marital status?",
+      "answer1": { "text": "Single", "nextquestion": "2.1" },
+      "answer2": { "text": "Married", "nextquestion": "2.2" }
+    },
+    {
+      "id": "2.1",
+      "question": "Are you planning on getting married next year?",
+      "answer1": { "text": "Yes", "nextquestion": "4.1" },
+      "answer2": { "text": "No", "nextquestion": "4.2" }
+    },
+    {
+      "id": "2.2",
+      "question": "How long have you been married",
+      "answer1": { "text": "Less that a year", "nextquestion": "3.1" },
+      "answer2": { "text": "More that a year", "nextquestion": "3.2" }
+    },
+    {
+      "id": "3.1",
+      "question": "Will you celebrated your one year anniversary?",
+      "answer1": { "text": "Yes", "nextquestion": "5.1" },
+      "answer2": { "text": "No", "nextquestion": "5.2" }
+    },
+    {
+      "id": "3.2",
+      "question": "Have you celebrated your one year anniversary?",
+      "answer1": { "text": "Yes", "nextquestion": "5.1" },
+      "answer2": { "text": "No", "nextquestion": "5.2" }
+    },
+    {
+      "id": "4.1",
+      "question": "Good luck"
+    },
+    {
+      "id": "4.2",
+      "question": "Good luck"
+    },
+    {
+      "id": "5.1",
+      "question": "That`s good"
+    },
+    {
+      "id": "5.2",
+      "question": "That`s sad"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+.converter_flex {
+  display: flex;
+}
+.conver_block {
+  display: flex;
+  flex-direction: column;
+  margin: 0px 20px;
+}
+
+.conver_block select {
+  margin-top: 15px;
+}
+.conver_block input {
+  width: 150px;
+  height: 30px;
+  margin-top: 10px;
+}
+section {
+  border: 2px solid gray;
+  padding: 20px;
+}
